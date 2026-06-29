@@ -7,7 +7,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-omlab-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/omlab)
 [![X (Twitter)](https://img.shields.io/badge/X-OmAI__lab-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/OmAI_lab)
 
-*Pioneering the next generation of multimodal AI models for Spatial Intelligence and Embodied AI.*
+*Building the foundational brains for the physical world.*
 
 </div>
 
@@ -52,7 +52,3 @@ Our research spans across open-vocabulary perception, reinforced vision-language
 * 📏 **[OVDEval](https://github.com/om-ai-lab/OVDEval)**: A comprehensive evaluation benchmark for Open-Vocabulary Detection.
 * 📝 **[VL-CheckList](https://github.com/om-ai-lab/VL-CheckList)**: Evaluating Vision & Language Pretraining Models with Objects, Attributes, and Relations.
 
-
-<div align="center">
-  <i>Building the foundational brains for the physical world.</i><br><br>
-</div>
