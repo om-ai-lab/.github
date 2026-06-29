@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👁️ Om AI Lab
+# 👁️+🧠 Om AI Lab
 **Open Multimodal AGI Research**
 
 [![Website](https://img.shields.io/badge/Website-om--ai--lab.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://om-ai-lab.github.io)
@@ -21,19 +21,26 @@ Our research spans across open-vocabulary perception, reinforced vision-language
 
 ---
 
+## 🚢 Flagship VLX Model Series 
+
+* 📹 **[VLX-Flow](https://github.com/om-ai-lab/VLX-Flow)**: A real-time VLM for streaming video understanding . 
+* 🔍 **[VLX-Seek](https://github.com/om-ai-lab/VLX-Seek)**: Fine-grained visual perception and grounding for physical AI. 
+* 🚗 **[VLX-Go](https://github.com/om-ai-lab/VLX-Go)**: Efficient general-purpose embodied navigation in the wild. 
+
+
 ## 🚀 Core Research Tracks
 
-### 🧠 Reinforced & Advanced VLMs
+### 🧠 Reinforced & Advanced Visual Reasoning
 *Models that think, reason, and understand the visual world at a granular level.*
 * 🌟 **[VLM-R1](https://github.com/om-ai-lab/VLM-R1)**: Solving Visual Understanding with Reinforced VLMs. *(Highly active)*
-* 🔍 **[VLM-FO1](https://github.com/om-ai-lab/VLM-FO1)**: Bridging the gap between high-level reasoning and fine-grained perception in Vision-Language Models.
 * 🔎 **[ZoomEye](https://github.com/om-ai-lab/ZoomEye)**: Enhancing Multimodal LLMs with human-like zooming capabilities through tree-based image exploration.
+* 🌍 **[ImageRAG](https://github.com/om-ai-lab/ImageRAG)**: Enhancing ultrahigh-resolution remote sensing imagery analysis.
 
-### 👁️ Real-Time Perception & Open-World Detection
+### 👁️ Real-Time Perception & Open-World Visual Detection 
 *Foundational spatial understanding optimized for edge and on-premise speeds.*
 * ⚡ **[OmDet](https://github.com/om-ai-lab/OmDet)**: Real-time, highly accurate, open-vocabulary end-to-end object detection.
+* 🔍 **[VLM-FO1](https://github.com/om-ai-lab/VLM-FO1)**: Bridging the gap between high-level reasoning and fine-grained perception in Vision-Language Models.
 * 📐 **[GroundVLP](https://github.com/om-ai-lab/GroundVLP)**: Harnessing Zero-shot Visual Grounding from Vision-Language Pre-training.
-* 🌍 **[ImageRAG](https://github.com/om-ai-lab/ImageRAG)**: Enhancing ultrahigh-resolution remote sensing imagery analysis.
 
 ### 🤖 Multimodal Agents & Embodied AI
 *Action-oriented intelligence for physical and virtual environments.*
@@ -48,5 +55,4 @@ Our research spans across open-vocabulary perception, reinforced vision-language
 
 <div align="center">
   <i>Building the foundational brains for the physical world.</i><br><br>
-  <b><a href="https://github.com/om-ai-lab">Join us in exploring the spatial frontier.</a></b>
 </div>
