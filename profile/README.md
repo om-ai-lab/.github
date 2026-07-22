@@ -45,7 +45,7 @@ Our research spans across open-vocabulary perception, reinforced vision-language
 ### 🤖 Multimodal Agents & Embodied AI
 *Action-oriented intelligence for physical and virtual environments.*
 * 🛠️ **[OmAgent](https://github.com/om-ai-lab/OmAgent)**: A comprehensive framework to build multimodal language agents for fast prototyping and production.
-* 🎯 **[OpenTrackVLA](https://github.com/om-ai-lab/OpenTrackVLA)**: Open and reproducible research for tracking Vision-Language-Action (VLA) models.
+* 🎯 **[OmTrackVLA](https://github.com/om-ai-lab/OmTrackVLA)**: Open and reproducible research for tracking Vision-Language-Action (VLA) models.
 
 ### 📊 Benchmarks & Evaluation
 *Rigorous standards for the open-source multimodal community.*
