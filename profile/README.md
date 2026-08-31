@@ -1,6 +1,6 @@
 <div align="center">
 
-# Om AI Lab
+# OmAI Lab
 **Open Multimodal AGI Research**
 
 [![Website](https://img.shields.io/badge/Website-om--ai--lab.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://om-ai-lab.github.io)
