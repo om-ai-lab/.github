@@ -49,7 +49,7 @@ Our research spans across open-vocabulary perception, reinforced vision-language
 
 ### 📊 Benchmarks & Evaluation
 *Rigorous standards for the open-source multimodal community.*
-* 📏 **[RS5M](https://github.com/om-ai-lab/RS5M)**: A pioneer work in VLM benchmark for remote sensing.
+* 🌍 **[RS5M](https://github.com/om-ai-lab/RS5M)**: A pioneer work in VLM benchmark for remote sensing.
 * 📏 **[OVDEval](https://github.com/om-ai-lab/OVDEval)**: A comprehensive evaluation benchmark for Open-Vocabulary Detection.
 * 📝 **[VL-CheckList](https://github.com/om-ai-lab/VL-CheckList)**: Evaluating vision & language pretraining models with objects, attributes, and relations.
 
