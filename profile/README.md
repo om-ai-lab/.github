@@ -25,7 +25,8 @@ Our research spans across open-vocabulary perception, reinforced vision-language
 
 * 📹 **[VLX-Flow](https://github.com/om-ai-lab/VLX-Flow)**: A real-time VLM for streaming video understanding . 
 * 🔍 **[VLX-Seek](https://github.com/om-ai-lab/VLX-Seek)**: Fine-grained visual perception and grounding for physical AI. 
-* 🚗 **[VLX-Go](https://github.com/om-ai-lab/VLX-Go)**: Efficient general-purpose embodied navigation in the wild. 
+* 🚗 **[VLX-Go](https://github.com/om-ai-lab/VLX-Go)**: Efficient general-purpose embodied navigation in the wild.
+* 🤔 **[VLX-VR](https://github.com/om-ai-lab/VLX-VR)**: An agentic video reasoning model for videos of any length.
 
 
 ## 🚀 Core Research Tracks
