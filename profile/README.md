@@ -3,9 +3,11 @@
 # OmAI Lab
 **Open Multimodal AGI Research**
 
-[![Website](https://img.shields.io/badge/Website-om--ai--lab.github.io-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://om-ai-lab.github.io)
+[![Website](https://img.shields.io/badge/Website-om--ai-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.om-ai.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-omlab-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/omlab)
 [![X (Twitter)](https://img.shields.io/badge/X-OmAI__lab-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/OmAI_lab)
+[![Blog](https://img.shields.io/badge/Blog-Blogs-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://om-ai-lab.github.io/index.html)
+
 
 *Building the foundational brains for the physical world.*
 
