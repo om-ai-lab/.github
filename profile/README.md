@@ -17,9 +17,9 @@
 
 ## 🌌 About Us
 
-At **OmAI Lab**, we believe the future of AI extends far beyond pure text. We are dedicated to building the "brains" for next-generation systems by focusing on the intersection of **Visual Reasoning** and **Embodied Agents**. 
+At **OmAI Lab**, we develop **multimodal foundation models** that connect visual perception, reasoning, and action.
 
-Our research spans across open-vocabulary perception, reinforced vision-language models, and real-time inference. We aim to bridge the critical gap between high-level logical reasoning and fine-grained visual action—building models that don't just "see" the world, but intuitively understand and interact with it.
+Our research advances **visual reasoning and embodied intelligence**, with a focus on open-vocabulary perception, reinforcement learning for vision-language models, and real-time inference architectures. We aim to build models that understand dynamic visual environments and translate high-level goals into grounded decisions and actions.
 
 ---
 
