@@ -9,6 +9,10 @@
 
 *Pioneering the next generation of multimodal AI models for Spatial Intelligence and Embodied AI.*
 
+<img width="1938" height="812" alt="863E23D7-6FB7-4A65-93C6-C37C76145DA9" src="https://github.com/user-attachments/assets/7b0878d0-4023-4cea-9290-5666322c1878" />
+
+[Try the Model，Click to register now!](https://platform.om-agent.cn/developer-web/#/models)
+
 </div>
 
 ---
