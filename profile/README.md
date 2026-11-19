@@ -1,5 +1,3 @@
-<div align="center">
-
 # Om AI Lab
 **Open Multimodal AGI Research**
 
@@ -10,9 +8,10 @@
 
 *Building the foundational brains for the physical world.*
 
-<img width="1938" height="812" alt="863E23D7-6FB7-4A65-93C6-C37C76145DA9" src="https://github.com/user-attachments/assets/7b0878d0-4023-4cea-9290-5666322c1878" />
+<img width="2400" height="1000" alt="iwEcAqNwbmcDAQTRCWAF0QPoBrBwQPwBWF-Z-wrOasiFLvEAB9IStBpgCAAJomltCgAL0gAXrsU" src="https://github.com/user-attachments/assets/19203540-4300-4aa0-9920-f554e2e1fc80" />
 
-[Try the Model, Click to register now!](https://platform.om-ai.com)
+[Try the Model, Click to register now!](https://platform.om-ai.com/#/models?modelId=VLX-Seek-1.6-3B)
+
 
 </div>
 
